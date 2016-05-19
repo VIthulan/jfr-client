@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jrockit.mc:com.jrockit.mc.common:5.5.0.165303">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jrockit/mc/com.jrockit.mc.common/5.5.0.165303/com.jrockit.mc.common-5.5.0.165303.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jrockit/mc/com.jrockit.mc.common/5.5.0.165303/com.jrockit.mc.common-5.5.0.165303-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jrockit/mc/com.jrockit.mc.common/5.5.0.165303/com.jrockit.mc.common-5.5.0.165303-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
